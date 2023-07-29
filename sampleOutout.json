@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Jon Caramanica, Joe Coscarelli, Jon Pareles",
+            "title": "Grammys Snubs and Surprises: Kacey Musgraves, Jon Batiste and Abba - The New York Times",
+            "description": "A jazz musician snagged the most nominations, and the Weeknd, an artist who said he’s boycotting the awards, found his name on the ballot.",
+            "url": "https://www.nytimes.com/2021/11/23/arts/music/snubs-surprises-grammy-awards.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/11/23/arts/23grammy-snubs1/23grammy-snubs1-facebookJumbo.jpg",
+            "publishedAt": "2021-11-24T16:17:00Z",
+            "content": "Rather than some shadowy cabal taking the members top vote-getters, considering them and then making their own final decision on the nominees anyway, the Recording Academy says these picks are pure: … [+2171 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Zachary Pekale",
+            "title": "2021 NFL expert predictions, odds and spreads: Picks for Week 12, including Bucs at Colts and Rams at Packers - The Athletic",
+            "description": "See NFL expert picks for week 12 including Buccaneers vs. Colts and Packers vs. Rams plus odds for every game.",
+            "url": "https://theathletic.com/2970486/2021/11/24/2021-nfl-expert-predictions-odds-and-spreads-picks-for-week-12-including-bucs-at-colts-and-rams-at-packers/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2021/11/22221912/GettyImages-1354027275-1024x682.jpg",
+            "publishedAt": "2021-11-24T16:01:06Z",
+            "content": "What’s a week in the NFL without a few big upsets? The 2021 season has quickly become the year of the underdog and the under; at least, that’s how games have gone recently. Except last week came with… [+1082 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Graeme Massie",
+            "title": "Brian Laundrie news – latest: Gabby Petito family lawyer says charges against new people being considered - The Independent",
+            "description": "Follow the latest developments",
+            "url": "https://www.independent.co.uk/news/world/americas/brian-laundrie-update-autopsy-gabby-petito-b1963001.html",
+            "urlToImage": "https://static.independent.co.uk/2021/11/23/17/AFP_9Q37PP-2.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021-11-24T15:43:48Z",
+            "content": "Brian Laundrie only person ever identified as person of interest in Gabby Petitos death\r\nThe investigation into Gabby Petito's murder has not yet concluded, however Brian Laundrie was the only person… [+945 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Gloria Sin",
+            "title": "Best Black Friday 2021 phone deals: Apple, Android, and more - The Verge",
+            "description": "Black Friday and Cyber Monday are a great time to shop for a new phone, whether it’s an iPhone or an Android. You’ll find some oldies that still got it or new phones with some sweet price cuts or gifts thrown in.",
+            "url": "https://www.theverge.com/22789359/black-friday-2021-best-phone-deals-cyber-monday",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/27VKu8-Ksg-_56gYnQl0K3SqZhI=/0x144:2002x1192/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22863273/vpavic_210916_4760_0240.jpg",
+            "publishedAt": "2021-11-24T15:41:47Z",
+            "content": "Get 5G-ready with the $99 OnePlus Nord N200 5G from Walmart\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nWhat are the best Black Friday and Cyb… [+12233 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Gwynn Guilford",
+            "title": "U.S. Jobless Claims Reach 52-Year Low - The Wall Street Journal",
+            "description": "Initial claims for jobless benefits fell last week to 199,000",
+            "url": "https://www.wsj.com/articles/weekly-jobless-claims-11-24-2021-11637701570",
+            "urlToImage": "https://images.wsj.net/im-440231/social",
+            "publishedAt": "2021-11-24T15:37:00Z",
+            "content": "Weekly jobless claims fell sharply to the lowest level in 52 years, reflecting the labor markets tightening as the economy recovers from the effects of the pandemic.\r\nWorker filings for initial unemp… [+153 chars]"
+        }
+    ]
+}
